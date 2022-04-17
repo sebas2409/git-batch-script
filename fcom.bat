@@ -2,7 +2,7 @@
 set nombre=%1
 set visb=%2
 if [%nombre%] == [] (
-echo escribir script nombreRepo public/private
+echo escribir fcom nombreRepo public/private
 ) else (
 git init
 git add .
