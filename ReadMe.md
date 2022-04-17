@@ -1,4 +1,4 @@
-# Script bash para automatizar el creado de un repositorio local y remoto en git y github 
+# Script batch para automatizar el creado de un repositorio local y remoto en git y github 
 > ##  fcom  nombre-de-prueba   public/private 
 Es necesario tener git, github CLI instalado en tu ordenador.
 
