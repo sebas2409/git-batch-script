@@ -1,5 +1,5 @@
 @echo off 
-set visb=%2
+set visb=%1
 if [%nombre%] == [] (
 echo escribir fcom nombreRepo public/private
 ) else (
