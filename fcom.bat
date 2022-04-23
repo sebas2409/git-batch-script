@@ -1,6 +1,6 @@
 @echo off 
 set visb=%1
-if [%nombre%] == [] (
+if [%visb%] == [] (
 echo escribir fcom nombreRepo public/private
 ) else (
 git init
